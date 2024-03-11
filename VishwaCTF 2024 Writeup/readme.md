@@ -2,7 +2,7 @@
 
 `Date: 01 March 2024 - 03 March 2024`
 
-![](/assets/VishwaCTF.png)
+![](./assets/VishwaCTF.png)
 
 ## Table of Contets:
 - ### [OSINT](https://github.com/adityak-19/Writeups/tree/main/VishwaCTF%202024%20Writeup/OSINT)

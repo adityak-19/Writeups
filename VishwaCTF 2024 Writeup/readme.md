@@ -2,6 +2,10 @@
 
 `Date: 01 March 2024 - 03 March 2024`
 
+<i><b><u>Team Members :</u></b></i>
+<br>[Ridyasha](https://github.com/ridyasha02)
+<br> [Aditya](https://github.com/adityak-19)
+
 ![](./assets/VishwaCTF.png)
 
 ## Table of Contets:
